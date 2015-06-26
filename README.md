@@ -8,3 +8,9 @@ This repo contains several up-to-date pre-compiled bash binaries for Synology Di
 * Make the script executable: `chmod +x SynologyBashInstaller.sh`
 * Execute the script: `./SynologyBashInstaller.sh`
 * Follow the instructions to install bash on your DiskStation
+
+# Bash infos
+Website: https://www.gnu.org/software/bash/
+
+License: GPLv3 (http://www.gnu.org/licenses/gpl.html)
+
