@@ -11,8 +11,8 @@ This repo contains several up-to-date pre-compiled bash binaries for Synology Di
 
 # Installation on the Raspberry pi 2
 * SSH into your Raspberry
-* Download bash: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.3/bash-Raspberry2`
-* Rename it: `mv "bash-Raspberry2" "bash"`
+* Download bash: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.3/Bash-Raspberry2.tar.gz`
+* Untar it: `tar xvzf "Bash-Raspberry2.tar.gz" "bash"`
 * Move it to your preferred destination, like /bin/: `mv "bash" "/bin/bash"`
 
 Note: on openelec, you don't have write access to the /bin/ - directory. If you want to use bash, please change the first line of the script you want to execute (called shebang) to `#!/path/to/bash` where you have to substitute /path/to/bash/ with the actual path.
