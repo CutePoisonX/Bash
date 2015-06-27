@@ -1,4 +1,4 @@
-# Bash 4.3.3
+# Bash 4.3.30
 This repo contains several up-to-date pre-compiled bash binaries for Synology DiskStations and other systems. The intention was to provide bash without having to install ipkg on your DiskStation (which gives you a legacy version anyway).
 
 # Installation on Synology DiskStations
