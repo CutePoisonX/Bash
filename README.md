@@ -4,14 +4,14 @@ This repo contains several up-to-date pre-compiled bash binaries for Synology Di
 # Installation on Synology DiskStations
 
 * SSH into your DiskStation
-* Download the script: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.3/SynologyBashInstaller.sh`
+* Download the script: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/SynologyBashInstaller.sh`
 * Make the script executable: `chmod +x SynologyBashInstaller.sh`
 * Execute the script: `./SynologyBashInstaller.sh`
 * Follow the instructions to install bash on your DiskStation
 
 # Installation on the Raspberry pi 2
 * SSH into your Raspberry
-* Download bash: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.3/Bash-Raspberry2.tar.gz`
+* Download bash: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/Bash-Raspberry2.tar.gz`
 * Untar it: `tar xvzf "Bash-Raspberry2.tar.gz" "bash"`
 * Move it to your preferred destination, like /bin/: `mv "bash" "/bin/bash"`
 
