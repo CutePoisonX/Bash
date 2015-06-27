@@ -4,7 +4,7 @@ This repo contains several up-to-date pre-compiled bash binaries for Synology Di
 # Installation on Synology DiskStations
 
 * SSH into your DiskStation
-* Download the script: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/SynologyBashInstaller.sh`
+* Download the install script: `wget https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/SynologyBashInstaller.sh`
 * Make the script executable: `chmod +x SynologyBashInstaller.sh`
 * Execute the script: `./SynologyBashInstaller.sh`
 * Follow the instructions to install bash on your DiskStation
