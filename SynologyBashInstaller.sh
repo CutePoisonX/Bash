@@ -109,10 +109,10 @@ downloadBash ()
         wget --no-check-certificate -O "Bash_v$VERSION_NR".tar.gz "https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/Bash-qoriq.tar.gz" 2>/dev/null 1>&2
         ;;
         11)
-        wget --no-check-certificate -O "Bash_v$VERSION_NR".tar.gz "https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/Bash-cedarview_x64.tar.gz" 2>/dev/null 1>&2
+        wget --no-check-certificate -O "Bash_v$VERSION_NR".tar.gz "https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/Bash-pineview_x64.tar.gz" 2>/dev/null 1>&2
         ;;
         12)
-        wget --no-check-certificate -O "Bash_v$VERSION_NR".tar.gz "https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/Bash-pineview_x64.tar.gz" 2>/dev/null 1>&2
+        wget --no-check-certificate -O "Bash_v$VERSION_NR".tar.gz "https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/Bash-cedarview_x64.tar.gz" 2>/dev/null 1>&2
         ;;
         13)
         wget --no-check-certificate -O "Bash_v$VERSION_NR".tar.gz "https://github.com/CutePoisonX/Bash/releases/download/v4.3.30/Bash-ppc853x.tar.gz" 2>/dev/null 1>&2
