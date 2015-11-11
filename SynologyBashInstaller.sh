@@ -5,7 +5,7 @@ setInstallUninstallVariables ()
     TITLE="bash"
     VERSION_NR="4.3.30"
     INSTALLFOLDER="Bash_v$VERSION_NR/"
-    DESTDIR="/usr/syno/bin/"
+    DESTDIR="/usr/local/bin/"
 }
 
 uninstall ()
